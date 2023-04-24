@@ -30,10 +30,8 @@ namespace Projeto3
                 total += diaValor.valor;
             }
 
-            // Calcular o valor médio
             double valorMedio = total / listaDiaValor.Count;
 
-            // Contar quantas vezes o valor ficou acima da média
             int count= 0;
             foreach (var diaValor in listaDiaValor)
             {
@@ -43,7 +41,6 @@ namespace Projeto3
                 }
             }
 
-            // Imprimir os resultados
             Console.WriteLine($"Valor mínimo: {min}");
             Console.WriteLine($"Valor máximo: {max}");
             Console.WriteLine($"Quantidade de valores acima da média: {count}");

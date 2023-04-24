@@ -1,0 +1,10 @@
+C:\Users\negro\source\repos\Projeto3\Projeto3\obj\Debug\Projeto3.csprojAssemblyReference.cache
+C:\Users\negro\source\repos\Projeto3\Projeto3\obj\Debug\Projeto3.csproj.CoreCompileInputs.cache
+C:\Users\negro\source\repos\Projeto3\Projeto3\bin\Debug\Projeto3.exe.config
+C:\Users\negro\source\repos\Projeto3\Projeto3\bin\Debug\Projeto3.exe
+C:\Users\negro\source\repos\Projeto3\Projeto3\bin\Debug\Projeto3.pdb
+C:\Users\negro\source\repos\Projeto3\Projeto3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\negro\source\repos\Projeto3\Projeto3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\negro\source\repos\Projeto3\Projeto3\obj\Debug\Projeto3.csproj.CopyComplete
+C:\Users\negro\source\repos\Projeto3\Projeto3\obj\Debug\Projeto3.exe
+C:\Users\negro\source\repos\Projeto3\Projeto3\obj\Debug\Projeto3.pdb
